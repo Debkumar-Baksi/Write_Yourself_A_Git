@@ -29,7 +29,7 @@ The name stands for **Write Yourself A Git**, inspired by the idea of learning b
 * Move into the project folder
 
   ```bash
-  cd wyag
+  cd Write_Yourself_A_Git
   ```
 
 * Initialize a new repository

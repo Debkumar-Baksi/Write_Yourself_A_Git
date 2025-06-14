@@ -24,7 +24,7 @@ The name stands for **Write Yourself A Git**, inspired by the idea of learning b
 
 - Clone the project  
   ```bash
-  git clone https://github.com/yourusername/wyag.git
+  git clone https://github.com/Debkumar-Baksi/Write_Yourself_A_Git.git
   ```
 * Move into the project folder
 
